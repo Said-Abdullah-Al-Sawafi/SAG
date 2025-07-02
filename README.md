@@ -1,2 +1,1 @@
-# SAG
-Advisor AI
+# rag-tutorial-v2
